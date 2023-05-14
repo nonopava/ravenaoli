@@ -60,6 +60,14 @@ h1 {
           margin-right: 0;
           text-align: center;
 }
+     #mensagem {
+     margin-right: 0;
+     color: #FFF;
+     font-style: oblique;
+     font-weight: bold;
+     text-align: center;
+     float: none;
+     width: 100%;
      
      audio {
           width: 100%;  
