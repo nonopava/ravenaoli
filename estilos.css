@@ -59,8 +59,7 @@ h1 {
           font-size: 150%;   
           margin-right: 0;
           text-align: center;
-          display: flex;
-          flex-direction: column;
+       
 }
      #mensagem {
      margin-right: 0;
