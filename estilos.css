@@ -73,4 +73,7 @@ h1 {
           width: 100%;  
           float: none;
      }
+    .clear {
+         clear: both;
+     }
 }
