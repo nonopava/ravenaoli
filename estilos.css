@@ -59,6 +59,8 @@ h1 {
           font-size: 150%;   
           margin-right: 0;
           text-align: center;
+          display: flex;
+          flex-direction: column;
 }
      #mensagem {
      margin-right: 0;
@@ -72,6 +74,7 @@ h1 {
      audio {
           width: 100%;  
           float: none;
+          work-bra
      }
     .clear {
          clear: both;
